@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @rajeswars, a Frontend Developer, UI/UX Designer, and App Developer.
+- 👀 I’m interested in creating engaging user experiences, building innovative web applications, and exploring machine learning technologies.
+- 🌱 I’m currently learning advanced machine learning techniques and working on a **Music Recommendation System** and **Fake Currency Detection** projects.
+- 💞️ I’m looking to collaborate on open-source projects that focus on frontend technologies, UI/UX design, or machine learning applications.
+- 📫 How to reach me:  
+  - LinkedIn: [Rajeswar S](https://www.linkedin.com/in/rajeswar-s-812704258/)  
+  - Email: rajesintern@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love participating in hackathons and coding competitions, where I often find creative solutions to complex problems!
